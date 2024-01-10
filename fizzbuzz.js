@@ -31,3 +31,4 @@ const isPalindrome = (word) => {
   }
   return true;
 }
+test percobaan
